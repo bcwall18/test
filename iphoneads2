@@ -1,3 +1,4 @@
+# this list comes from BlackJack8 on github, modified to work with pi-hole
 0.0.0.0 050y9lhe8p.com
 0.0.0.0 0914.global.ssl.fastly.net
 0.0.0.0 0c3-a.tlnk.io
